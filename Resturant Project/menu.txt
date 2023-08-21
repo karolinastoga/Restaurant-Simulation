@@ -1,0 +1,12 @@
+|-------------------MENU--------------------|
+|code| name                           |price|
+|====|================================|=====|
+| A1 | Fried shrimps                  | 5   |
+| A2 | Grilled sausages               | 6   |
+| F1 | Spaghetti with clams           | 10  |
+| F2 | The tagliolino with porcini    | 16  |
+| S1 | Fried calamari                 | 20  |
+| S2 | The pork shank                 | 18  |
+| D1 | Tiramisu                       | 8   |
+| D2 | Cheescake                      | 7   |
+|===========================================|
